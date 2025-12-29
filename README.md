@@ -1,2 +1,2 @@
 # Resume
-English Resume 영문이력서
+영문이력서
